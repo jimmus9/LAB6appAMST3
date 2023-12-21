@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "881248997029",
+    "firebase_url": "https://amst-lab6-default-rtdb.firebaseio.com",
+    "project_id": "amst-lab6",
+    "storage_bucket": "amst-lab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881248997029:android:70cca9c83c976eb5e4074c",
+        "android_client_info": {
+          "package_name": "com.example.lab6appamstg3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881248997029-sj55f5gjamu1q9cl56dn8teo4k7ebbai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab6appamstg3",
+            "certificate_hash": "67bb0f0b14a609195bd2210e47b0db444ddac909"
+          }
+        },
+        {
+          "client_id": "881248997029-4l236c728b1fn7om2m4l1tt7qjm3525p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCOxl_zy8GeQLTqCvDWZAHR1uf7kEXWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881248997029-4l236c728b1fn7om2m4l1tt7qjm3525p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881248997029-gjt4bd6a5vrp8ja5gtpak9jcb1i4601s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pract5.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881248997029:android:a5b74c65ff4795e7e4074c",
+        "android_client_info": {
+          "package_name": "com.example.pract5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881248997029-4l236c728b1fn7om2m4l1tt7qjm3525p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCOxl_zy8GeQLTqCvDWZAHR1uf7kEXWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881248997029-4l236c728b1fn7om2m4l1tt7qjm3525p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881248997029-gjt4bd6a5vrp8ja5gtpak9jcb1i4601s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pract5.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
